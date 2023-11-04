@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/main_background">
+        <file>biman-bangladesh-airlines.png</file>
+        <file>C:/Users/Lenovo/Pictures/bkash_payment_logo.png</file>
+    </qresource>
+    <qresource prefix="/nothing">
+        <file>Fibrary.qss</file>
+        <file>biman-bangladesh-airlines.png</file>
+        <file>C:/Users/Lenovo/Pictures/ezgif-2-8ef6e752cb.jpg</file>
+        <file>Devsion.qss</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>C:/Users/Lenovo/Pictures/bKash-Payment.png</file>
+        <file>C:/Users/Lenovo/Pictures/nagad-manual-payment-banner.png</file>
+        <file>C:/Users/Lenovo/Pictures/nexusapp.png</file>
+        <file>C:/Users/Lenovo/Pictures/Biman_Bangladesh_Airlines_(S2-AEQ)_Boeing_737-8HO.jpg</file>
+        <file>C:/Users/Lenovo/Pictures/bkash-payment-gateway-plugin-for-magento-2.png</file>
+        <file>C:/Users/Lenovo/Pictures/Biman-Bangladesh-Airlines-Logo.png</file>
+    </qresource>
+</RCC>
